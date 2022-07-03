@@ -1,0 +1,143 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3474261 */
+  src: url('iconfont.woff2?t=1656493862605') format('woff2'),
+       url('iconfont.woff?t=1656493862605') format('woff'),
+       url('iconfont.ttf?t=1656493862605') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wifi:before {
+  content: "\e677";
+}
+
+.icon-kongdiao:before {
+  content: "\e632";
+}
+
+.icon-reshuiqianzhuang:before {
+  content: "\e61f";
+}
+
+.icon-meiqitianranqi:before {
+  content: "\e60e";
+}
+
+.icon-dianshi:before {
+  content: "\e60d";
+}
+
+.icon-yanjizhushou-shangchuan_WIFI:before {
+  content: "\e62d";
+}
+
+.icon-xiyiji:before {
+  content: "\e90d";
+}
+
+.icon-nuanqi:before {
+  content: "\e621";
+}
+
+.icon-bingxiang:before {
+  content: "\e666";
+}
+
+.icon-yigui:before {
+  content: "\e614";
+}
+
+.icon-shafa:before {
+  content: "\e615";
+}
+
+.icon-shoucang:before {
+  content: "\e617";
+}
+
+.icon-zaixiankefu:before {
+  content: "\e618";
+}
+
+.icon-24gf-telephone2:before {
+  content: "\e96d";
+}
+
+.icon-shouye1:before {
+  content: "\e600";
+}
+
+.icon-lianxikefu:before {
+  content: "\e641";
+}
+
+.icon-tongbushoucang:before {
+  content: "\e6d4";
+}
+
+.icon-gerenziliao:before {
+  content: "\e655";
+}
+
+.icon-jilu:before {
+  content: "\e648";
+}
+
+.icon-bg-file:before {
+  content: "\e64e";
+}
+
+.icon-xiaozu:before {
+  content: "\e654";
+}
+
+.icon-xiangxiajiantoushixin:before {
+  content: "\e62b";
+}
+
+.icon-haoyoutuijie:before {
+  content: "\e629";
+}
+
+.icon-ditu:before {
+  content: "\e696";
+}
+
+.icon-chazhaofangyuan:before {
+  content: "\e62a";
+}
+
+.icon-zixunhuoke:before {
+  content: "\e6b6";
+}
+
+.icon-pinzhizhengzu:before {
+  content: "\e62c";
+}
+
+.icon-ditu1:before {
+  content: "\e906";
+}
+
+.icon-wodexiao:before {
+  content: "\e941";
+}
+
+.icon-shouye:before {
+  content: "\e6a6";
+}
+
+.icon-icon_bangwozhaofang:before {
+  content: "\e61a";
+}
+
+.icon-fangwuchuzu:before {
+  content: "\ffd5";
+}
+
